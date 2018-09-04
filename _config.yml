@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lam's Docs"
+title                    : "Lam's docs"
 title_separator          : "-"
 name                     : "Tran Thanh Lam"
-description              : "share all"
+description              : "share everything"
 url                      : "1412281.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "1412281/1412281.github.io"
